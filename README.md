@@ -1,2 +1,2 @@
 # Supermarket_inventory
-A simple inventory management system built with Django.
+Retail Accounting and Inventory Management software to facilitate accurate sales tracking and product availability using Django
